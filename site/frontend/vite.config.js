@@ -12,16 +12,16 @@ export default defineConfig({
         "name":"Blogify Firm",
         "short_name":"Blogify",
         "display": "standalone",
-        "background_color": "#071952",
-        "theme_color": "#071952",
+        "background_color": "#96351F",
+        "theme_color": "#96351F",
         "icons":[
           {
-            src: "Business/Techfolio/favicon_io/android-chrome-512x512.png",
+            src: "Business/Blogify/favicon_io/android-chrome-512x512.png",
             sizes: "512x512",
             type: "image/png",
           },
           {
-            src: "Business/Techfolio/favicon_io/android-chrome-192x192.png",
+            src: "Business/Blogify/favicon_io/android-chrome-192x192.png",
             sizes: "192x192",
             type: "image/png",
           },
