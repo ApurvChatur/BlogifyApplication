@@ -12,8 +12,8 @@ export default defineConfig({
         "name":"Blogify Firm",
         "short_name":"Blogify",
         "display": "standalone",
-        "background_color": "#96351F",
-        "theme_color": "#96351F",
+        "background_color": "#4A171E",
+        "theme_color": "#4A171E",
         "icons":[
           {
             src: "Business/Blogify/favicon_io/android-chrome-512x512.png",
