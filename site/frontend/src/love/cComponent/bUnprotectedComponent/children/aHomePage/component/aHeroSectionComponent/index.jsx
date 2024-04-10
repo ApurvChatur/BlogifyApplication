@@ -87,7 +87,7 @@ const HeroSectionComponent = ({ Redux, ReduxUltimate }) => {
         </div>
       </section>
 
-      <Separator/>
+      <Separator className="bg-[#4A171E] dark:bg-[#E2B143]" />
     </React.Fragment>
   )
 }
